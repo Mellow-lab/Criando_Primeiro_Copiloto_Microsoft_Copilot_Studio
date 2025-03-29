@@ -8,3 +8,5 @@ Neste desafio, explorei o **Microsoft Copilot Studio** e aprendi como criar um c
 ✅ **Criação de um Copiloto**: Configurei um **assistente virtual**, definindo seu propósito e personalização.  
 ✅ **Uso de Tópicos**: Aprendi a estruturar diálogos usando **tópicos**, garantindo respostas mais naturais e organizadas.  
 ✅ **Teste e Ajustes**: Testei o comportamento do copiloto, ajustei as respostas e refinei a experiência do usuário.  
+
+### você pode interagir diretamente com meu copiloto atravéz desse [link](https://copilotstudio.microsoft.com/environments/28a6ad5e-4ef7-ecc2-802d-a4812122d0e4/bots/cr0b7_diOsTravelAgent/canvas?__version__=2&enableFileAttachment=true)
